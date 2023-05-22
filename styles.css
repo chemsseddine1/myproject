@@ -1,0 +1,19 @@
+/* styles.css */
+
+/* Modifier l'affichage de la navbar pour la rendre inline */
+nav ul {
+    display: inline;
+    list-style: none;
+  }
+  
+  nav li {
+    display: inline-block;
+    margin-right: 10px;
+    font-family: "Times New Roman", serif;
+  }
+  
+  /* Changer la police en Roboto */
+  body {
+    font-family: 'Roboto', sans-serif;
+  }
+  
